@@ -1,0 +1,16 @@
+id: 2606-14150
+date: "2026-06-16"
+source: "arXiv"
+identifier: "2606.14150"
+title: "Revision Demystifies Small Language Models"
+paper_title: "Small LLMs: Pruning vs. Training from Scratch"
+category: "cs.LG"
+status: "draft"
+links:
+  paper_abs: "https://arxiv.org/abs/2606.14150"
+  paper_html: "https://arxiv.org/html/2606.14150v1"
+  repo: "https://github.com/zlab-princeton/llm-pruning-collection"
+claim: >
+  Smaller language models can be built through reset or revision. When
+  training-token budgets are matched, revision through pruning preserves useful
+  structure that random initialization must rediscover through additional training.
